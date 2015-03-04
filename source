@@ -1,0 +1,78 @@
+//Matlab Salary Calculation by Virendra Agarwal
+a = input('enter your Post\n1.manager\n2.cleark\n3.po\n');
+switch a,
+    case 1,
+  disp('basic salary=50000');
+    b=input('enter the year');
+ if ('b=2010');
+c = HRA;
+d = DA;
+e = 50000;
+f = 800;
+HRA = 40*e/100
+DA = (f - 115.76)*100/115.76
+g = c + d + e;
+disp ('total salary is');
+disp (g);
+ end;
+if ('b=2011')
+p = HRA;
+q = DA;
+r = 50000;
+s = 909;
+HRA = 40*r/100
+DA = (s - 115.76)*100/115.76
+t = p + q + r;
+disp ('total salary is');
+disp (t);
+end;
+ if ('b=2012');
+u = HRA;
+v = DA;
+w = 50000;
+x = 967;
+HRA = 40*w/100
+DA = (x - 115.76)*100/115.76
+y = u + v + w;
+disp ('total salary is');
+disp (y);
+ end;
+end;
+switch a,
+    case 2,
+  disp('basic salary=25000');
+    b=input('enter the year');
+ if ('b=2010');
+c = HRA;
+d = DA;
+e = 25000;
+f = 800;
+HRA = 40*e/100
+DA = (f - 115.76)*100/115.76
+g = c + d + e;
+disp ('total salary is');
+disp (g);
+ end;
+if ('b=2011')
+p = HRA;
+q = DA;
+r = 50000;
+s = 909;
+HRA = 40*r/100
+DA = (s - 115.76)*100/115.76
+t = p + q + r;
+disp ('total salary is');
+disp (t);
+end;
+ if ('b=2012');
+u = HRA;
+v = DA;
+w = 50000;
+x = 967;
+HRA = 40*w/100
+DA = (x - 115.76)*100/115.76
+y = u + v + w;
+disp ('total salary is');
+disp (y);
+ end;
+end;
